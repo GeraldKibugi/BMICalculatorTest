@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/BMI Calculator/stage1Task/build/
+/BMI Calculator/stage1Task/out/
+/BMI Calculator/stage1Task/out/production/classes/
+/BMI Calculator/stage2Task/build/
+/BMI Calculator/stage2Task/out/
+/BMI Calculator/stage2Task/out/production/classes/
+/BMI Calculator/stage3Task/build/
+/BMI Calculator/stage4Task/build/
+/BMI Calculator/stage5Task/build/
+/BMI Calculator/stage5Task/out/
+/BMI Calculator/stage5Task/out/production/classes/
